@@ -375,7 +375,7 @@ body {
 ## OUTPUT
 Home page:
 ```
-Portfolio/Screenshot 2026-02-04 195749.png
+
 ```
 About page:
 ``
