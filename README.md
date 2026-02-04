@@ -374,26 +374,25 @@ body {
 ```
 ## OUTPUT
 ### Home page:
-```
+
 ![alt text](<Screenshot 2026-02-04 195749.png>)
-```
+
 ### About page:
-```
+
 ![alt text](<Screenshot 2026-02-04 195800.png>)
 
-```
 ### Skills page:
-```
+
 ![alt text](<Screenshot 2026-02-04 195820.png>)
-```
+
 ### Project page:
-```
+
 ![alt text](<Screenshot 2026-02-04 195903.png>)
-```
+
 ### Contact page:
-```
+
 ![alt text](<Screenshot 2026-02-04 195913.png>)
-```
+
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
